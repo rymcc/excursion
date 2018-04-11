@@ -1,0 +1,28 @@
+
+.header {
+  font-family: Verdana;
+  font-weight: normal;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+html {
+  background-color: black;
+  text-align: center;
+}
+
+.comingsoon {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.middle, .end {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.end {
+
+}
